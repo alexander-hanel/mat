@@ -56,7 +56,6 @@ Description
 ####Related Samples and Hashes 
 ####Encryption
 ####Source Code
-####Network Signatures
 ####Identification on a Live System
 ####Yara Signature 
 ####Network Signature
