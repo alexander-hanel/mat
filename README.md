@@ -58,6 +58,7 @@ Description
 ## Command and Control 
 
 #### URL(s)
+
 ```
 
 ```
@@ -86,19 +87,24 @@ Description
 #### Network Signature
 
 #### Code Samples
+
 ```
 
 ```
+
 #### Open Source Intelligence
 
 #### Whois Information of the C2
+
 ```
 
 ```
+
 #### Third-Party Analysis 
  [Site](Link)
 
 #### Strings
+
 ```
 
 ```
